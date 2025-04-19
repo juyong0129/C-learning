@@ -1,30 +1,4 @@
-﻿  week04_01.c
-  week04_02.c
-  week04_03.c
-  week05_01.c
-  week05_02.c
-  week05_03.c
-  week05_04.c
-  week05_05.c
-  week05_06.c
-  week05_07.c
-  week06_01.c
-  week06_02.c
-  week06_03.c
-  week06_05.c
+﻿  week07_15.c
+  week07_16.c
   코드를 생성하고 있습니다...
-week04_02.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week04_03.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_01.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_02.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_03.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_04.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_05.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_06.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week05_07.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_01.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_02.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_03.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_04.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-week06_05.obj : error LNK2005: main이(가) week04_01.obj에 이미 정의되어 있습니다.
-C:\Users\c3_jg\source\repos\juyong0129\C-learning\x64\Debug\C learning.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
+  C learning.vcxproj -> C:\Users\c3_jg\source\repos\juyong0129\C-learning\x64\Debug\C learning.exe
