@@ -108,5 +108,29 @@
     <ClCompile Include="week07_16.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="week08_01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="week08_02.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="week08_03.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="week08_04.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="week08_05.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="week08_06.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="week08_07.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="week08_08.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

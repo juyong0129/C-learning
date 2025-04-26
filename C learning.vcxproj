@@ -158,6 +158,14 @@
     <ClCompile Include="week07_14.c" />
     <ClCompile Include="week07_15.c" />
     <ClCompile Include="week07_16.c" />
+    <ClCompile Include="week08_01.c" />
+    <ClCompile Include="week08_02.c" />
+    <ClCompile Include="week08_03.c" />
+    <ClCompile Include="week08_04.c" />
+    <ClCompile Include="week08_05.c" />
+    <ClCompile Include="week08_06.c" />
+    <ClCompile Include="week08_07.c" />
+    <ClCompile Include="week08_08.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,10 +1,10 @@
-//#include <stdio.h>
-//#include <stdlib.h>
-//
-//int main() {
-//	printf("%d\n", rand());
-//	printf("%d\n", rand());
-//	printf("%d\n", rand());
-//
-//	return 0;
-//}
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+	printf("%d\n", rand());
+	printf("%d\n", rand());
+	printf("%d\n", rand());
+
+	return 0;
+}
