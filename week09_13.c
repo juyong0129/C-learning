@@ -1,9 +1,9 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
 	int i = 1, n;
-	printf("ÀÔ·ÂÇÒ ¼ö´Â :");
+	printf("ìž…ë ¥í•  ìˆ˜ëŠ” :");
 	scanf("%d", &n);
 
 	while (1) {

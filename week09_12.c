@@ -1,10 +1,10 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main() {
 	int i = 0;
 
 	while (i < 10) {
-		printf("iÀÇ °ª : %d\n", i);
+		printf("iì˜ ê°’ : %d\n", i);
 		i++;
 		if (i == 5) {
 			break;

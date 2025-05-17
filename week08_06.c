@@ -1,16 +1,16 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
 	int n, sum = 0;
 
-	printf("nÀ» ÀÔ·ÂÇÏ¼¼¿ä >>> ");
+	printf("nì„ ìž…ë ¥í•˜ì„¸ìš” >>> ");
 	scanf("%d", &n);
 	
 	for (int i = 1; i <= n; i++) {
 		sum += i;
 	}
 
-	printf("´ä: %d", sum);
+	printf("ë‹µ: %d", sum);
 	return 0;
 }

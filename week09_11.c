@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main() {
 	int i = 0;
@@ -8,7 +8,7 @@ int main() {
 			i++;
 			continue;
 		}
-		printf("iÀÇ °ª : %d\n", i);
+		printf("iì˜ ê°’ : %d\n", i);
 		i++;
 	}
 

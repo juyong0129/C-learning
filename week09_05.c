@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main() {
 	int n = 10;
@@ -7,7 +7,7 @@ int main() {
 		n++;
 		printf("%d\n", n);
 	}
-	printf("while¹® Á¾·áÈÄ nÀÇ °ª: %d", n);
+	printf("whileë¬¸ ì¢…ë£Œí›„ nì˜ ê°’: %d", n);
 
 	return 0;
 }

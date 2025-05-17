@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -6,20 +6,20 @@
 int main() {
 	int num;
 
-	printf("10000 ¹Ì¸¸ Á¤¼ö ÀÔ·Â : ");
+	printf("10000 ë¯¸ë§Œ ì •ìˆ˜ ì…ë ¥ : ");
 	scanf("%d", &num);
 
 	if (num >= 1000 && num < 10000) {
-		printf("³× ÀÚ¸® ¼ö\n");
+		printf("ë„¤ ìë¦¬ ìˆ˜\n");
 	}
 	else if (num >= 100) {
-		printf("¼¼ ÀÚ¸® ¼ö");
+		printf("ì„¸ ìë¦¬ ìˆ˜");
 	}
 	else if (num >= 10) {
-		printf("µÎ ÀÚ¸® ¼ö");
+		printf("ë‘ ìë¦¬ ìˆ˜");
 	}
 	else if (num < 10) {
-		printf("ÇÑ ÀÚ¸® ¼ö");
+		printf("í•œ ìë¦¬ ìˆ˜");
 	}
 
 	return 0;

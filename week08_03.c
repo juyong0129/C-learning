@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main() {
 	int n;
@@ -7,6 +7,6 @@ int main() {
 		printf("%d\n", n);
 	}
 	
-	printf("¸¶Áö¸· n: %d", n);
+	printf("ë§ˆì§€ë§‰ n: %d", n);
 	return 0;
 }

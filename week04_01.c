@@ -1,15 +1,15 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main()
 {
 	int a, b, c, num;
-	printf("¼¼ ÀÚ¸®¼ö¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("ì„¸ ìë¦¬ìˆ˜ë¥¼ ì…ë ¥í•˜ì„¸ìš”: ");
 	scanf("%d", &num);
 	a = num / 100;
 	b = num % 100 / 10;
 	c = num % 10;
-	printf("¹éÀÇ ÀÚ¸®´Â %d ÀÌ°í, ½ÊÀÇ ÀÚ¸®´Â %d ÀÌ°í, ÀÏÀÇ ÀÚ¸®´Â %d ÀÔ´Ï´Ù.", a, b, c);
+	printf("ë°±ì˜ ìë¦¬ëŠ” %d ì´ê³ , ì‹­ì˜ ìë¦¬ëŠ” %d ì´ê³ , ì¼ì˜ ìë¦¬ëŠ” %d ì…ë‹ˆë‹¤.", a, b, c);
 
 	return 0;
 }

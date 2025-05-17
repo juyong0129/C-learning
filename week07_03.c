@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main() {
 	int a, b;
@@ -7,10 +7,10 @@ int main() {
 	b = 56;
 	
 	if (a > b) {
-		printf("%d´Â %dº¸´Ù Å©´Ù\n", a, b);
+		printf("%dëŠ” %dë³´ë‹¤ í¬ë‹¤\n", a, b);
 	}
 	else {
-		printf("%d´Â %dº¸´Ù Å©Áö ¾Ê´Ù\n", a, b);
+		printf("%dëŠ” %dë³´ë‹¤ í¬ì§€ ì•Šë‹¤\n", a, b);
 	}
 
 	return 0;

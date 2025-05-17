@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 
 int main() {
 	int i, sum = 0;
@@ -6,6 +6,6 @@ int main() {
 		sum += i;
 	}
 
-	printf("%d �Դϴ�.", sum);
+	printf("%d 입니다.", sum);
 	return 0;
 }

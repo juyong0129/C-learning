@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 
@@ -8,16 +8,16 @@ int main() {
 	int rnd = rand() % 1024;
 
 	if (rnd > 500) {
-		printf("Á¶°Ç½Ä1 ½ÇÇà\n");
+		printf("ì¡°ê±´ì‹1 ì‹¤í–‰\n");
 	}
 	else {
-		printf("Á¶°Ç½Ä2 ½ÇÇà\n");
+		printf("ì¡°ê±´ì‹2 ì‹¤í–‰\n");
 	}
 	if (rnd > 900) {
-		printf("Á¶°Ç½Ä3 ½ÇÇà\n");
+		printf("ì¡°ê±´ì‹3 ì‹¤í–‰\n");
 	}
 	else {
-		printf("Á¶°Ç½Ä4 ½ÇÇà\n");
+		printf("ì¡°ê±´ì‹4 ì‹¤í–‰\n");
 	}
 
 	return 0;

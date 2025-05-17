@@ -1,10 +1,10 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main() {
 	int i;
 
 	for (i = 1; i <= 10; i++) {
-		printf("¾¾Å¥ºêÄÚµù\t%d\n", i);
+		printf("ì”¨íë¸Œì½”ë”©\t%d\n", i);
 	}
  return 0;
 }

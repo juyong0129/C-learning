@@ -1,13 +1,13 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main() {
 	if (1) {
-		printf("True\tÂü\n");
-		printf("ÀÀ\t¸Â¾Æ\n");
+		printf("True\tì°¸\n");
+		printf("ì‘\të§ì•„\n");
 	}
 	else {
-		printf("False\t°ÅÁş\n");
-		printf("¾Æ´Ï\t¾Æ´Ï¾ß\n");
+		printf("False\tê±°ì§“\n");
+		printf("ì•„ë‹ˆ\tì•„ë‹ˆì•¼\n");
 	}
 
 	return 0;

@@ -1,2 +1,95 @@
-﻿  week08_09.c
-  C learning.vcxproj -> C:\Users\c3_jg\source\repos\juyong0129\C-learning\x64\Debug\C learning.exe
+﻿  week04_01.c
+  week04_02.c
+  week04_03.c
+  week05_01.c
+  week05_02.c
+  week05_03.c
+  week05_04.c
+  week05_05.c
+  week05_06.c
+  week05_07.c
+  week06_01.c
+  week06_02.c
+  week06_03.c
+  week06_04.c
+  week06_05.c
+  week07_01.c
+  week07_02.c
+  week07_03.c
+  week07_04.c
+  week07_05.c
+  코드를 생성하고 있습니다...
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_02.c(5,7): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_02.c(6,7): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+  컴파일하고 있습니다...
+  week07_06.c
+  week07_07.c
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_06.c(6,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'time_t'입니다.
+      C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_06.c(6,9):
+      서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+      C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_06.c(6,9):
+      서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+      C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_06.c(6,9):
+      서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_07.c(6,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  week07_08.c
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_08.c(6,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  week07_09.c
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_09.c(6,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  week07_10.c
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_10.c(6,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  week07_11.c
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_11.c(6,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  week07_12.c
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week07_12.c(11,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  week07_13.c
+  week07_14.c
+  week07_15.c
+  week07_16.c
+  week08_01.c
+  week08_02.c
+  week08_03.c
+  week08_04.c
+  week08_05.c
+  week08_06.c
+  week08_07.c
+  week08_08.c
+  week08_09.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  week09_01.c
+  week09_02.c
+  week09_03.c
+  week09_04.c
+  week09_05.c
+  week09_06.c
+  week09_07.c
+  week09_08.c
+  week09_09.c
+  week09_10.c
+  week09_11.c
+  week09_12.c
+  week09_13.c
+  week09_14.c
+  week09_15.c
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week09_15.c(3,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week09_15.c(4,2): warning C4013: 'scanf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  week09_16.c
+  week10_01.c
+  week10_02.c
+  week10_03.c
+  week10_04.c
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  week10_05.c
+  week10_06.c
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week10_06.c(6,8): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  week10_07.c
+  week10_08.c
+  week10_09.c
+  week10_10.c
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week10_10.c(11,3): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week10_10.c(18,2): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+C:\Users\c3_jg\source\repos\juyong0129\C-learning\week10_10.c(5,2): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...

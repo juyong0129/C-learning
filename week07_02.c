@@ -1,4 +1,4 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main() {
 	float f1, f2;
@@ -6,10 +6,10 @@ int main() {
 	f2 = 0.000002;
 
 	if (f1 < f2) {
-		printf("f2°¡ f1 º¸´Ù Å®´Ï´Ù.");
+		printf("f2ê°€ f1 ë³´ë‹¤ í½ë‹ˆë‹¤.");
 	}
 	else {
-		printf("f1ÀÌ f2º¸´Ù Å®´Ï´Ù.");
+		printf("f1ì´ f2ë³´ë‹¤ í½ë‹ˆë‹¤.");
 	}
 	
 	return 0;

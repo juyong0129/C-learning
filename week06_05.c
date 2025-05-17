@@ -1,16 +1,16 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
 	int h, m, s;
-	printf("ÃÊ¸¦ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("ì´ˆë¥¼ ìž…ë ¥í•˜ì„¸ìš”: ");
 	scanf("%d", &s);
 
 	h = s / 3600;
 	m = s % 3600 / 60;
 	s = s % 3600 % 60;
 
-	printf("%d ½Ã°£ %dºÐ %dÃÊ ÀÔ´Ï´Ù.", h, m, s);
+	printf("%d ì‹œê°„ %dë¶„ %dì´ˆ ìž…ë‹ˆë‹¤.", h, m, s);
 
 	return 0;
 }

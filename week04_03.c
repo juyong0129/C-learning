@@ -1,9 +1,9 @@
-#define _CRT_SECURE_NO_WARNINGS
+О╩©#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
 	int c, c500, c100, c50, c10;
-	printf("╠щ╬в╦╕ ют╥бго╪╪©Д: ");
+	printf("Й╦┬Л∙║К╔╪ Л·┘К═╔М∙≤Л└╦Л ■: ");
 	scanf("%d", &c);
 
 	c500 = c / 500;
@@ -11,7 +11,7 @@ int main() {
 	c50 = c % 500 % 100 / 50;
 	c10 = c % 500 % 100 % 50 / 10;
 
-	printf("500©Ь: %d╟Ё,  100©Ь: %d╟Ё, 50©Ь: %d╟Ё, 10©Ь: %d╟Ё ют╢о╢ы.", c500, c100, c50, c10);
+	printf("500Л⌡░: %dЙ╟°,  100Л⌡░: %dЙ╟°, 50Л⌡░: %dЙ╟°, 10Л⌡░: %dЙ╟° Л·┘К▀┬К▀╓.", c500, c100, c50, c10);
 
 	return 0;
 }

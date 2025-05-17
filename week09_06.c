@@ -1,16 +1,16 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main() {
 	int i = 10, sum = 0, count = 1;
 
 	while (i <= 17) {
-		printf("%dÈ¸: %d\n", count, i);
+		printf("%díšŒ: %d\n", count, i);
 		sum += i;
 		i++;
 		count++;
 	}
 
-	printf("while¹® Á¾·á ÈÄ nÀÇ °ª : %d", sum);
+	printf("whileë¬¸ ì¢…ë£Œ í›„ nì˜ ê°’ : %d", sum);
 
 	return 0;
 }

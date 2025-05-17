@@ -1,6 +1,6 @@
-int main() {
+ï»¿int main() {
 	int i = 1, n;
-	printf("nÀ» ÀÔ·ÂÇÏ¼¼¿ä >>> ");
+	printf("nì„ ìž…ë ¥í•˜ì„¸ìš” >>> ");
 	scanf("%d", &n);
 
 	while (1) {

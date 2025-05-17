@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+ï»¿#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
@@ -11,31 +11,31 @@ int main() {
 	srand(time(NULL));
 	robot = rand() % 3 + 1;
 
-	printf("°¡À§¹ÙÀ§º¸¸¦ ½ÃÀÛÇÕ´Ï´Ù.\n°¡À§, ¹ÙÀ§, º¸ Áß¿¡¼­ ÀÔ·ÂÇÏ¼¼¿ä: ");
+	printf("ê°€ìœ„ë°”ìœ„ë³´ë¥¼ ì‹œì‘í•©ë‹ˆë‹¤.\nê°€ìœ„, ë°”ìœ„, ë³´ ì¤‘ì—ì„œ ì…ë ¥í•˜ì„¸ìš”: ");
 	scanf("%s", user_input);
 
-	if (strcmp(user_input, "°¡À§") == 0) {
+	if (strcmp(user_input, "ê°€ìœ„") == 0) {
 		user = 1;
 	}
-	else if (strcmp(user_input, "¹ÙÀ§") == 0) {
+	else if (strcmp(user_input, "ë°”ìœ„") == 0) {
 		user = 2;
 	}
-	else if (strcmp(user_input, "º¸") == 0) {
+	else if (strcmp(user_input, "ë³´") == 0) {
 		user = 3;
 	}
 	else {
-		printf("Àß¸øµÈ ÀÔ·ÂÀÔ´Ï´Ù.\nError!!!\n");
+		printf("ì˜ëª»ëœ ì…ë ¥ì…ë‹ˆë‹¤.\nError!!!\n");
 		exit(1);
 	}
 
 	if (user == robot) {
-		printf("ºñ°å´Ù\n");
+		printf("ë¹„ê²¼ë‹¤\n");
 	}
 	else if ((user == 1 && robot == 3) || (user == 2 && robot == 1) || (user == 3 && robot == 2)) {
-		printf("³»°¡ ÀÌ°å´Ù\n");
+		printf("ë‚´ê°€ ì´ê²¼ë‹¤\n");
 	}
 	else {
-		printf("·Îº¿ÀÌ ÀÌ°å´Ù\n");
+		printf("ë¡œë´‡ì´ ì´ê²¼ë‹¤\n");
 	}
 
 	return 0;

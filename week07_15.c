@@ -1,17 +1,17 @@
-#define _CRT_SECURE_NO_WARNINGS
+О╩©#define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 
 int main() {
 	int num;
 
-	printf("а╓╪Ж ют╥б : ");
+	printf("Л═∙Л┬≤ Л·┘К═╔ : ");
 	scanf("%d", &num);
 
 	if (num % 2 == 0) {
-		printf("%d╢б б╕╪Ж", num);
+		printf("%dК┼■ Л╖²Л┬≤", num);
 	}
 	else {
-		printf("%d╢б ю╫╪Ж", num);
+		printf("%dК┼■ Л²▄Л┬≤", num);
 	}
 
 	return 0;
