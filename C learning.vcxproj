@@ -193,6 +193,17 @@
     <ClCompile Include="week10_08.c" />
     <ClCompile Include="week10_09.c" />
     <ClCompile Include="week10_10.c" />
+    <ClCompile Include="week11_01.c" />
+    <ClCompile Include="week11_02.c" />
+    <ClCompile Include="week11_03.c" />
+    <ClCompile Include="week11_04.c" />
+    <ClCompile Include="week11_05.c" />
+    <ClCompile Include="week11_06.c" />
+    <ClCompile Include="week11_07.c" />
+    <ClCompile Include="week11_08.c" />
+    <ClCompile Include="week11_09.c" />
+    <ClCompile Include="week11_10.c" />
+    <ClCompile Include="week11_11.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
