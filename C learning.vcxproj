@@ -211,6 +211,11 @@
     <ClCompile Include="week12_05.c" />
     <ClCompile Include="week12_06.c" />
     <ClCompile Include="week12_07.c" />
+    <ClCompile Include="week13_01.c" />
+    <ClCompile Include="week13_02.c" />
+    <ClCompile Include="week13_03.c" />
+    <ClCompile Include="week13_04.c" />
+    <ClCompile Include="week13_05.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
