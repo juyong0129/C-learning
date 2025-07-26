@@ -228,7 +228,6 @@
     <ClCompile Include="week16_04.c" />
     <ClCompile Include="week16_05.c" />
     <ClCompile Include="week16_06.c" />
-    <ClCompile Include="week16_07.c" />
     <ClCompile Include="week18_01.c" />
     <ClCompile Include="week18_02.c" />
     <ClCompile Include="week18_03.c" />
@@ -239,6 +238,10 @@
     <ClCompile Include="week19_04.c" />
     <ClCompile Include="week19_05.c" />
     <ClCompile Include="week19_06.c" />
+    <ClCompile Include="week20_01.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="week20_01.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -318,9 +318,6 @@
     <ClCompile Include="week16_06.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="week16_07.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="week18_01.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -351,5 +348,13 @@
     <ClCompile Include="week19_06.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="week20_01.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="week20_01.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
